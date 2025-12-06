@@ -80,7 +80,8 @@ Dataset includes financial indicators like:
 ## 📊 Dashboard Preview
 (Attached Screenshot)
 
-![Dashboard Preview](Mutual_Fund_Dashboard.png)
+![Dashboard Preview](<img width="1435" height="810" alt="Mutual_Fund_Dashboard" src="https://github.com/user-attachments/assets/8f450f2b-b40d-4926-b39a-803be6eca2e9" />
+)
 
 ---
 
